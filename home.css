@@ -1,0 +1,10 @@
+body{
+    background-image: url(photo/cyber1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+P{
+    padding: 8px;
+}
